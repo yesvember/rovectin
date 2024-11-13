@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_유저" data-name="유저" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1c1c1b;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1c1c1b;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #2e3192;
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="4" y="4" width="40" height="40"/>
+  <circle class="cls-2" cx="24" cy="16.14" r="10.87"/>
+  <path class="cls-1" d="M5.92,44c.71-7.26,6.95-12.96,14.52-12.96h7.11c7.58,0,13.81,5.7,14.52,12.96h1.92c-.72-8.3-7.81-14.84-16.45-14.84h-7.11c-8.63,0-15.73,6.54-16.45,14.84h1.92Z"/>
+</svg>

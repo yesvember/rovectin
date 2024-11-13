@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276.3 65.25">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        letter-spacing: .04em;
+      }
+
+      .cls-3 {
+        letter-spacing: .05em;
+      }
+
+      .cls-4 {
+        font-family: FjallaOne-Regular, 'Fjalla One';
+        font-size: 72px;
+      }
+
+      .cls-5 {
+        letter-spacing: .04em;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7 {
+        letter-spacing: .05em;
+      }
+
+      .cls-8 {
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(-2.56 62.79)"><tspan class="cls-3" x="0" y="0">R</tspan><tspan class="cls-7" x="40.55" y="0">O</tspan><tspan class="cls-1" x="81.91" y="0">V</tspan><tspan class="cls-5" x="118.98" y="0">E</tspan><tspan class="cls-8" x="150.35" y="0">C</tspan><tspan class="cls-2" x="186.57" y="0">T</tspan><tspan class="cls-6" x="219.35" y="0">I</tspan><tspan class="cls-8" x="242.04" y="0">N</tspan></text>
+</svg>

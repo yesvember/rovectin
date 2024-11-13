@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_돋보기" data-name="돋보기" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1c1c1b;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="21.14" cy="21.14" r="16.26"/>
+  <line class="cls-1" x1="43.18" y1="43.18" x2="32.64" y2="32.64"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168.98 56.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bd94dc;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Pretendard-Regular-KSCpc-EUC-H, Pretendard;
+        font-size: 16px;
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M156.05,1.07H12.95C6.35,1.07.95,6.47.95,13.07v18.96c0,6.6,5.4,12,12,12h65.3l6.25,10.82,6.25-10.82h65.3c6.6,0,12-5.4,12-12V13.07c0-6.6-5.4-12-12-12Z"/>
+  <text class="cls-2" transform="translate(26.17 27.81)"><tspan x="0" y="0">민감성 피부도 OK!</tspan></text>
+</svg>

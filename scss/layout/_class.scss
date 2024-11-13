@@ -1,0 +1,25 @@
+.title {
+    margin: 0 0 10rem 0;
+    text-align: center;
+    font-size: 4.8rem;
+    letter-spacing: -.5px;
+}
+
+.hide-txt {
+    position: absolute;
+    height: 0;
+    width: 0;
+    background: transparent;
+    font-size: 0;
+    visibility: hidden;
+    overflow: hidden;
+}
+
+.trigger {
+    @include position-ab();
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    opacity: 0;
+    visibility: visible;
+}
